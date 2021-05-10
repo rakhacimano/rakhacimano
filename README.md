@@ -1,6 +1,7 @@
 <h1> Hi there 👋, I'm Rakha Here </h1>
 
 <h3>Follow My Social:</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-rakhaputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakhaputra/)](https://www.linkedin.com/in/rakhaputra/)
 [![Gmail Badge](https://img.shields.io/badge/-rakhacimano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakhacimano@gmail.com)](mailto:rakhacimano@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-rakhacimano-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rakhacimano/)](https://instagram.com/rakhacimano/)
