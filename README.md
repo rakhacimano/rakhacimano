@@ -1,4 +1,4 @@
-<h1> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Rakha Here </h1>
+<h1> Hi there<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Rakha Here </h1>
 
 <h3>Follow My Social:</h3>
 
@@ -32,3 +32,5 @@
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of my github readme
 
 ![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
+
+<img src="https://komarev.com/ghpvc/?username=rakhacimano&color=blue&style=flat-square" align="left" />
