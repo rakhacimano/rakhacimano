@@ -1,6 +1,6 @@
 <h1> Hi there<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Rakha Here </h1>
 
-<h3>Follow My Social:</h3>
+<h3>🔗 Follow My Social:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-rakhaputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakhaputra/)](https://www.linkedin.com/in/rakhaputra/)
 [![Gmail Badge](https://img.shields.io/badge/-rakhacimano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakhacimano@gmail.com)](mailto:rakhacimano@gmail.com)
@@ -10,7 +10,7 @@
 - 🔭 **I’m currently studying on <a href="https://smktelkom-mlg.sch.id">SMK Telkom Malang.</a>**
 - 🌱 **I’m currently learning UI/UX Design and Frontend Web Development.**
 
-<h3> Languages and Tools: </h3>
+<h3>🔨 Languages and Tools: </h3>
 <div class="mt-4">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
