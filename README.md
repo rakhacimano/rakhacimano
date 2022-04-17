@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-rakhaputra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakhaputra/)](https://www.linkedin.com/in/rakhaputra/)
 [![Gmail Badge](https://img.shields.io/badge/-rakhacimano@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rakhacimano@gmail.com)](mailto:rakhacimano@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-rakhacimano-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rakhacimano/)](https://instagram.com/raxnats/)
+[![Instagram Badge](https://img.shields.io/badge/-rakhacimano-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rakhacimano/)](https://instagram.com/rakhacimano/)
 [![Dribbble Badge](https://img.shields.io/badge/-rakhaputra-magenta?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/rakhaputra/)](https://dribbble.com/rakhaputra/)
 
 - 🔭 **I’m currently studying on <a href="https://smktelkom-mlg.sch.id">SMK Telkom Malang.</a>**
