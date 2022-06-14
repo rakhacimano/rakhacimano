@@ -1,4 +1,4 @@
-<h1> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="24px"> I'm Rakha Here </h1>
+<h1><img src="https://gist.github.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e"> I'm Rakha Here </h1>
 
 <h3>🔗 Follow My Social:</h3>
 
