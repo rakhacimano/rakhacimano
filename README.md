@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-rakhacimano-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rakhacimano/)](https://instagram.com/rakhacimano/)
 [![Dribbble Badge](https://img.shields.io/badge/-rakhaputra-magenta?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.dribbble.com/rakhaputra/)](https://dribbble.com/rakhaputra/)
 
-- 🔭 **I’m currently studying on <a href="https://smktelkom-mlg.sch.id">SMK Telkom Malang.</a>**
+- 🔭 **I’m currently studying on <a href="https://pens.ac.id">Politeknik Elektronika Negeri Surabaya</a>**
 - 🌱 **I’m currently learning UI/UX Design and Frontend Web Development.**
 
 <h3>🔨 Languages and Tools: </h3>
