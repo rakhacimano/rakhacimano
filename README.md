@@ -43,8 +43,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
-  
+ <img align="right" width="350" src="animated-illustration.gif" alt="Coding gif" />
+
+  <br/>
+  <br/>
  ✌️ &emsp; Enjoy to do learning and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to design and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: rakhacimano@gmail.com<br/><br/>
