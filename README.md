@@ -47,7 +47,7 @@
 
   <br/>
   <br/>
- ✌️ &emsp; Enjoy to do learning and sharing knowledge <br/><br/>
+ ✌️  &emsp; Enjoy to do learning and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to design and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: rakhacimano@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/rakhacimano/rakhacimano/issues)
